@@ -16,3 +16,7 @@ If you already cloned and forgot to use `--recurse-submodules` you can run `git 
 2. Make sure that you fulfill all the requirements: Python 3.9 or later with all [requirements.txt](https://github.com/Nihar109/socket_io_message/requirements.txt) dependencies installed, To install, run:
 
 `pip install -r requirements.txt`
+
+## How to create a webapplication for passing video through web application
+
+- passing_video_webapplication file dedicated to the creating web application streming video
